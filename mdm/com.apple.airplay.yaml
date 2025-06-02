@@ -25,7 +25,7 @@ payload:
       userenrollment:
         mode: allowed
   content: macOS supports more than one payload, iOS does not. Supported on the user
-    channel for macOS only.
+    channel for macOS only .
 payloadkeys:
   - key: AllowList
     title: AllowList
